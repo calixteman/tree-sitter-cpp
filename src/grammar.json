@@ -10164,6 +10164,10 @@
             "value": "operator"
           },
           {
+            "type": "PATTERN",
+            "value": "\\s*"
+          },
+          {
             "type": "CHOICE",
             "members": [
               {
