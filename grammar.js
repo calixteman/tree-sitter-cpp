@@ -909,7 +909,8 @@ module.exports = grammar(C, {
         '->*',
         '->',
         '()', '[]',
-        'new',
+        'new', 'delete',
+        'new[]', 'delete[]',
       )
     )),
 

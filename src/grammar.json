@@ -10325,6 +10325,18 @@
               {
                 "type": "STRING",
                 "value": "new"
+              },
+              {
+                "type": "STRING",
+                "value": "delete"
+              },
+              {
+                "type": "STRING",
+                "value": "new[]"
+              },
+              {
+                "type": "STRING",
+                "value": "delete[]"
               }
             ]
           }
